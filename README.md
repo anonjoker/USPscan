@@ -1,8 +1,4 @@
-# USPscan
-   __  _________                  
- / / / / __/ _ \___ _______ ____ 
-/ /_/ /\ \/ ___(_-</ __/ _ `/ _ \   By AnonJoker ©
-\____/___/_/  /___/\__/\_,_/_//_/
+              USPscan | By AnonJoker ©
                       USPscan Team ™
 
 // All This IS By AnonJoker From Tunisia :) ! Created In 29/08/2015
